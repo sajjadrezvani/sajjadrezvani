@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭I'm an Electrical engineering student and Machine Learning Teaching Assitant at Shahid Beheshti University in Tehran.<br>⚡I graduated from Tehran Allameh Helli1 high school in mathematics. I've been a Python and C++ programmer in the TNM company for 2 years and I've worked on some industrial projects too. <br>🤝I've been a signals & systems Matlab TA and FPGA project RA at university. Recently I've been Python Developer at Alpega company for about three months for a project.<br><br>💬My career and research interests are applying AI and Neural networks, especially in robotics & biotechnology & Neuroscience. 
+🔭I'm an Electrical engineering student and Machine Learning Teaching Assitant at Shahid Beheshti University in Tehran.<br>⚡I graduated from Tehran Allameh Helli1 high school in mathematics. I've been a Python and C++ programmer in the TNM company for 2 years and I've worked on some industrial projects too. <br>🤝I've been a signals & systems Matlab TA and FPGA project RA at university.<br><br>💬My career and research interests are applying AI and Neural networks, especially in robotics & biotechnology & Neuroscience. 
 
 
 ## 🌐 Socials:
